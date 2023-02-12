@@ -10,7 +10,7 @@ RUN export DEBCONF_NONINTERACTIVE_SEEN=true \
     apt-get -yyqq install ca-certificates ; \
     apt-get clean
 
-FROM --platform=$TARGETPLATFORM scratch
+FROM --platform=$TARGETPLATFORM alpine:3.17.1
 
 COPY --from=0 /etc/ssl/certs/ca-certificates.crt /etc/ssl/certs/
 ADD coredns /coredns
