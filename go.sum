@@ -166,8 +166,8 @@ github.com/googleapis/enterprise-certificate-proxy v0.2.1 h1:RY7tHKZcRlk788d5WSo
 github.com/googleapis/enterprise-certificate-proxy v0.2.1/go.mod h1:AwSRAtLfXpU5Nm3pW+v7rGDHp09LsPtGY9MduiEsR9k=
 github.com/googleapis/gax-go/v2 v2.7.0 h1:IcsPKeInNvYi7eqSaDjiZqDDKu5rsmunY0Y1YupQSSQ=
 github.com/googleapis/gax-go/v2 v2.7.0/go.mod h1:TEop28CZZQ2y+c0VxMUmu1lV+fQx57QpBWsYpwqHJx8=
-github.com/grafanalf/coredns-redis v1.1.4 h1:fJthtONgAQvSHyHZUrTThEPB7WoxLtx8ybdZ5Lbh+b0=
-github.com/grafanalf/coredns-redis v1.1.4/go.mod h1:HWI3+AF8YB3i91JQoNz5C3DcyUp3q9CX4rU2RShsGes=
+github.com/grafanalf/coredns-redis v1.2.0 h1:MoMY2tx6fVGcL2jM02t57t44giJSO5uBw6MgAQmJ1+s=
+github.com/grafanalf/coredns-redis v1.2.0/go.mod h1:q4ohkRyG7ZaqTB9Yq+NMFOjytC9kaP7IOXmN55mxE68=
 github.com/grpc-ecosystem/grpc-opentracing v0.0.0-20180507213350-8e809c8a8645 h1:MJG/KsmcqMwFAkh8mTnAwhyKoB+sTAnY4CACC110tbU=
 github.com/grpc-ecosystem/grpc-opentracing v0.0.0-20180507213350-8e809c8a8645/go.mod h1:6iZfnjpejD4L/4DwD7NryNaJyCQdzwWwH2MWhCA90Kw=
 github.com/hpcloud/tail v1.0.0/go.mod h1:ab1qPbhIpdTxEkNHXyeSf5vhxWSCs/tWer42PpOxQnU=
